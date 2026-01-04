@@ -1,0 +1,11 @@
+season,startup_name,industry,deal_made,amount_asked_lakhs,equity_asked_percent,amount_deal_lakhs,equity_given_percent,valuation_lakhs,sharks_invested,profitable
+1,Skippi,FMCG,Yes,45,5,45,5,900,"Aman,Peyush",Yes
+1,Blue Tea,Food & Beverage,Yes,75,1,75,1,7500,Ashneer,Yes
+1,Hammer,Electronics,Yes,100,1,100,1,10000,Aman,Yes
+1,Revamp Moto,Automobile,No,100,1,0,0,0,,No
+1,CosIQ,Cosmetics,Yes,50,10,50,10,500,Namita,Yes
+2,Hoovu Fresh,AgriTech,Yes,80,2,80,2,4000,Anupam,Yes
+2,Zillionaire,EdTech,No,60,5,0,0,0,,No
+2,WTF Gym Wear,Fashion,Yes,30,10,30,10,300,Vineeta,No
+2,Annie,Kids,Yes,50,5,50,5,1000,Peyush,Yes
+2,Peeschute,Health,No,50,10,0,0,0,,No
